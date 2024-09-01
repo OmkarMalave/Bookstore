@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1",
+      "name": "To Kill a Mockingbird",
+      "title": "To Kill a Mockingbird",
+      "price": 0.00,
+      "category": "Free",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "Harper Lee’s Pulitzer Prize-winning masterwork of honor and injustice in the deep South, a novel of great compassion and courage that tackles the moral nature of humanity."
+    },
+    {
+      "id": "2",
+      "name": "1984",
+      "title": "1984",
+      "price": 0.00,
+      "category": "Free",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "George Orwell’s bleakly prophetic vision of a totalitarian future, where reality is constantly manipulated and the individual is crushed by the oppressive weight of authoritarian rule."
+    },
+    {
+      "id": "3",
+      "name": "The Great Gatsby",
+      "title": "The Great Gatsby",
+      "price": 0.00,
+      "category": "Free",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "F. Scott Fitzgerald’s classic novel of the Jazz Age, a story of the mysterious Jay Gatsby and his obsessive pursuit of the American Dream amidst the decadence and corruption of the 1920s."
+    },
+    {
+      "id": "4",
+      "name": "Pride and Prejudice",
+      "title": "Pride and Prejudice",
+      "price": 11.99,
+      "category": "Sell",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "Jane Austen’s beloved novel about Elizabeth Bennet and her complex relationship with the enigmatic Mr. Darcy, a tale of love, social standing, and personal growth set in early 19th-century England."
+    },
+    {
+      "id": "5",
+      "name": "The Catcher in the Rye",
+      "title": "The Catcher in the Rye",
+      "price": 9.99,
+      "category": "Sell",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "J.D. Salinger’s classic novel of teenage rebellion and angst, following Holden Caulfield’s tumultuous journey through New York City as he struggles with his identity and place in a world he finds increasingly phony."
+    },
+    {
+      "id": "6",
+      "name": "Moby Dick",
+      "title": "Moby Dick",
+      "price": 13.49,
+      "category": "Sell",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "Herman Melville’s epic tale of obsession and revenge, following Captain Ahab’s relentless quest to destroy the monstrous white whale, Moby Dick, in a story of grandeur and tragedy."
+    },
+    {
+      "id": "7",
+      "name": "The Hobbit",
+      "title": "The Hobbit",
+      "price": 14.99,
+      "category": "Sell",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "J.R.R. Tolkien’s enchanting prelude to The Lord of the Rings, recounting Bilbo Baggins’ unexpected adventure with dwarves and a dragon, filled with magic, heroism, and the spirit of exploration."
+    },
+    {
+      "id": "8",
+      "name": "Fahrenheit 451",
+      "title": "Fahrenheit 451",
+      "price": 7.99,
+      "category": "Sell",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "Ray Bradbury’s visionary work of dystopian fiction, depicting a future where books are banned and 'firemen' burn them, exploring themes of censorship, conformity, and the power of literature."
+    },
+    {
+      "id": "9",
+      "name": "Brave New World",
+      "title": "Brave New World",
+      "price": 11.49,
+      "category": "Sell",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "Aldous Huxley’s provocative novel about a technologically advanced future society that achieves apparent harmony and stability at the cost of individual freedom and human values."
+    },
+    {
+      "id": "10",
+      "name": "Catch-22",
+      "title": "Catch-22",
+      "price": 10.49,
+      "category": "Sell",
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330601.jpg?t=st=1723371216~exp=1723374816~hmac=bec4fd57da39d6199303fc96e3e91d6b4fe6967b839b4a93804875a6cb078a36&w=740",
+      "description": "Joseph Heller’s satirical novel set during World War II, centered on the absurdity and contradictions of war, where the term 'Catch-22' has become synonymous with bureaucratic absurdity and the struggle for sanity."
+    }
+  ]
+  
